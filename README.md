@@ -5,7 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAngelo20&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
-  ## ⚡ Technologies
+ 
+  ⚡ Technologies ⚡ 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -20,7 +21,7 @@
  <img height="150px" align="right" alt="Lucas-hello" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </div>
   
-  ##
+  ⚡ Social Midias ⚡ 
  
 <div> 
   <a href="https://instagram.com/_lucasangelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
