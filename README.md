@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAngelo20&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br><br>
- 
+ ##
   ⚡ Technologies ⚡ 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
