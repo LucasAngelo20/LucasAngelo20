@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAngelo20&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAngelo20&layout=compact&langs_count=7&theme=omni"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br>
  
   ⚡ Technologies ⚡ 
 
@@ -19,7 +19,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
  <img height="150px" align="right" alt="Lucas-hello" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
-</div>
+</div><br>
+ <br>
   
   ⚡ Social Midias ⚡ 
  
